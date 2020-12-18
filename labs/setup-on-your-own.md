@@ -22,7 +22,7 @@ the port_)
 ## Actual Setup
 
 First do the tasks in
-[start jenkins](./labs/00-start-jenkins.md), so
+[start jenkins](./00-start-jenkins.md), so
 you have your own fork, and clone it on your
 instance (machine).
 
