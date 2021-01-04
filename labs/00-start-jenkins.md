@@ -1,22 +1,29 @@
 # Initial setup
 
-> Note: if you do not have a Jenkins server
-> provided by the trainer, head over and read
-> [how to set Jenkins up](./setup-on-your-own.md)
+In order for you to work on the Jenkins katas, you
+need to have
+- a fork of this git repository on your
+own Github account.
+- a Jenkins server.
 
-In order for you to interact with Jenkins, you
-need to have a fork of this git repository on your
-own account. All your work will be made in the
-fork, so you do not get disturbed by all the other
-students.
+Jenkins listens to changes in your repository, so
+to avoid being disturbed by other users of the
+Jenksins katas all your work will be made in your
+personal fork.
+
 
 ## Tasks
 
-- Fork the repository to your own github account.
+- Fork the repository to your own Github account.
 - Clone the forked repository on your own machine.
 
 Now you are able to push new changes to your
-repository and have Jenkins build them
+repository and have Jenkins build them.
+
+> Note: If you do not have a Jenkins server
+> provided by the trainer, head over and read
+> [how to set Jenkins up](./setup-on-your-own.md)
+
 
 ## Navigate to jenkins, is it working?
 
