@@ -13,7 +13,7 @@ Jenkins will be running on port `8080`, and can be reached by pressing the Web P
 
 | Username | password                         |
 | :------- | :------------------------------- |
-| admin    | `7p4rk3r4qgp3c2020` without 2020 |
+| admin    | `adminpassword2020` without 2020 |
 
 ## Layout of this repository
 
